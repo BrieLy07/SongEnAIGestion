@@ -8,9 +8,6 @@ Este proyecto tiene como objetivo desarrollar una aplicación web que permita a 
 - Características
 - Tecnologías Utilizadas
 - Instalación
-- Uso
-- Contribución
-- Licencia
 - Contacto
 
 ## Características
@@ -22,11 +19,10 @@ Este proyecto tiene como objetivo desarrollar una aplicación web que permita a 
 ## Tecnologías Utilizadas
 - **Lenguajes de Programación**: Python, JavaScript
 - **Frameworks y Bibliotecas**:
-  - **Backend**: Flask, TensorFlow, PyTorch
-  - **Frontend**: React, Bootstrap
-  - **NLP**: Transformers de Hugging Face, NLTK, spaCy
-- **API de Melodía**: Jukedeck, Amper Music
-- **Herramientas de Desarrollo**: Jupyter Notebooks, Google Colab, GitHub
+  - **Backend**: Flask, TensorFlow, Keras
+  - **Frontend**: Vue
+- **API de Melodía**: SUNO
+- **Herramientas de Desarrollo**: Visual Studio Code, Google Colab, GitHub
 
 ## Instalación
 1. Clona el repositorio:
